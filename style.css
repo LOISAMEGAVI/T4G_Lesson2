@@ -1,3 +1,54 @@
 .logo-nav{
     display: flex;
 }
+
+.logo{
+    width: 100px;
+    height: 100%;
+}
+
+/* typography */
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px
+}
+.paragraph, #paragraph{
+    font-weight:bolder;
+    font-size: 20px ;
+    letter-spacing: normal;
+    word-spacing: 10px;
+    text-shadow: 2px 1px 5px;
+    line-height: 40px ;
+    text-align: justify;
+    color: rgb(24, 24, 31);
+    background-color:rgb(204, 46, 157);
+}
+
+#paragraph{
+    opacity:0.9;
+    /* background-color: white; */
+}
+
+header .hero-div{
+    background-color: url('../lambo,jpg');
+    width: 100W;
+    height: 500px;
+}
+/* .hero-div{
+
+} */
+.categories div img{
+    background-color: aqua;
+}
+
+.categories div img{
+    background-color: aqua;
+}
+
+.categories div img{
+    background-color: aqua;
+}
+
+.categories div img{
+    background-color: aqua;
+}
